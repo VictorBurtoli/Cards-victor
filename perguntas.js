@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Googletu,
+    'Geografia,
     'Qual a capital da Paris?',
     'A capital de Paris é Diadema'
 )
