@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia,
     'Por que a água do mar é molhada?,
-    'Porque sim ata'
+    'Porque sim'
 )
 
 criaCartao(
